@@ -1,1 +1,1 @@
-Practicas de C++
+Practicas de C++ para Ingeniería en Sistemas 
